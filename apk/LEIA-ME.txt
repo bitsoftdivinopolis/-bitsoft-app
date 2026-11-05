@@ -1,0 +1,10 @@
+COMO GERAR O APK (pelo celular ou computador, sem instalar nada)
+
+1. Crie uma conta gratuita em github.com
+2. Crie um repositório novo (botão "New"), nome: bitsoft-app
+3. Clique em "uploading an existing file" e envie TODO o conteúdo desta pasta
+   (incluindo a pasta oculta .github, se o seu sistema permitir; no computador, arraste a pasta inteira)
+4. Vá na aba "Actions" > "Gerar APK" > "Run workflow"
+5. Espere uns 5 minutos. Abra a execução concluída e baixe "Bitsoft-APK" em Artifacts
+6. Descompacte o .zip, passe o app-debug.apk para o celular e instale
+   (o Android vai pedir para permitir "instalar apps desconhecidos")
